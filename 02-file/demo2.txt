@@ -1,0 +1,5 @@
+We are a group of volunteers who review and approve themes submitted to be included in the official WordPress Theme directory.
+
+We do license, security, and code quality reviews.
+
+We help build and maintain default themes.Hello Nice!!!
